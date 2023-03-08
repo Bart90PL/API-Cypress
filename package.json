@@ -1,0 +1,8 @@
+{
+  "scripts":{
+    "cypress:open-test": "cypress open --config baseUrl=http:/www.wp.pl"
+  },
+  "devDependencies": {
+    "cypress": "^12.7.0"
+  }
+}
