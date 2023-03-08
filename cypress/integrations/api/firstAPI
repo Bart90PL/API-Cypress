@@ -1,0 +1,5 @@
+describe ('First API test', () => {
+})
+it ('first'), () => {
+    cy.request('GET', )
+}
